@@ -104,7 +104,7 @@ const StateMaster = () => {
                         </div>
                       </div>
                     </div>
-                    <div className="">
+                    <div className="table-responsive">
                       <table className="table table-bordered border-bottom text-nowrap">
                         <thead className="bg-gray">
                           <tr>

@@ -100,7 +100,7 @@ const RankMaster = () => {
                         </div>
                       </div>
                     </div>
-                    <div class="">
+                    <div class="table-responsive">
                       <table class="table table-bordered border-bottom text-nowrap">
                         <thead class="bg-gray">
                           <tr>

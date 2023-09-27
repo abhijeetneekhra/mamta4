@@ -83,7 +83,7 @@ const SchoolMaster = () => {
                       </h3>
                     </div>
 
-                    <div class="">
+                    <div class="table-responsive">
                       <table class="table table-bordered border-bottom text-nowrap table-responsive">
                         <thead class="bg-gray">
                           <tr>
